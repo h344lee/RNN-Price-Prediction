@@ -20,6 +20,7 @@ stocks price prediction.
 
 ## RNN Algorithms
 - LSTM, BI-LSTM, GRU
+![image](https://user-images.githubusercontent.com/56165279/139314533-86ccc0b7-0ece-4375-8a27-ffe6384bb80f.png)
 
 ## Test
 - Test 1 : With different datasets
